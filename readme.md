@@ -49,15 +49,15 @@ Read more about object detection, reinforcement learning, and signal logic
 <p align="center">
     <img src="./Demo.gif">
 </p>
-* `Flowchart`
 
+* `Flutter Based App- GatiMitra`
+<p align="center">
+    <img src="./GatiMitra.png">
+</p>
+
+* `Flowchart`
 <p align="center">
     <img src="./Flowchart.jpeg">
-</p>
-* `Flutter Based App- GatiMitra`
-
-<p align="center">
-    <img src="./GatiMitra">
 </p>
 ------------------------------------------
 ### Prerequisites
